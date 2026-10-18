@@ -1,0 +1,7 @@
+# Dépendances du rendu TP1 (rendu_Mehdi_TD1_TP1.ipynb)
+# Python 3.13, environnement DEV_MSIAC
+numpy==2.5.3
+matplotlib==3.11.2
+autograd==1.9.1
+pulp==3.3.2
+# PuLP embarque le solveur CBC : rien d'autre à installer pour le PL
